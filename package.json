@@ -1,0 +1,19 @@
+{
+  "name": "feta",
+  "version": "1.0.0",
+  "description": "A testing framework for mocking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sosullivanIDBS/feta"
+  },
+  "keywords": [
+    "javascript",
+    "test"
+  ],
+  "author": "Sam O'Sullivan",
+  "license": "ISC"
+}
